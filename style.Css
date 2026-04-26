@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+  margin: 20px;
+}
+
+header {
+  background: #0b5ed7;
+  color: white;
+  padding: 15px;
+}
+
+nav a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background: #0b5ed7;
+  color: white;
+}
+
+td, th {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
